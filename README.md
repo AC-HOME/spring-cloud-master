@@ -22,4 +22,17 @@ jxls/apache-poi
 activiti工作流   
 
 # 配套中间件：
-mysql,rabbitmq,docker,redis,nginx,libreoffice,spring-boot-admin,turbine,jenkins,sleuth/zipkin,dfs分布式文件服务,redission,配置中心config-server,zuul,eureka，maven,Elasticsearch
+mysql  
+rabbitmq  
+docker  
+redis/redission  
+nginx  
+libreoffice  
+spring-boot-admin/turbine  
+jenkins  
+sleuth/zipkin  
+dfs分布式文件服务  
+config-server配置中心  
+zuul  
+eureka  
+Elasticsearch  
