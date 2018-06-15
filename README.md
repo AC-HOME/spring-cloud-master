@@ -1,4 +1,7 @@
-# spring-cloud-master
+# spring-cloud-master  
+  
+Freedom & responsibility guide your way  
+  
 这是一个基于spring-cloud的适用于企业级中小型项目研发基准的分布式微服务架构父级项目。整体细分为根项目，微服务项目和应用项目三个子项目，引入当前微服务开发的主流组件，为小规模团队或缺少统一架构设计人员的团队提供一套即时可用的基础架构和统一的研发标准。
 
 # 主要引入组件：
